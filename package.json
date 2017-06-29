@@ -1,0 +1,27 @@
+{
+    "name": "week6-day3-assignment",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jpjubana/week6-day3-assignment.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jpjubana/week6-day3-assignment/issues"
+    },
+    "homepage": "https://github.com/jpjubana/week6-day3-assignment#readme",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.3",
+        "mustache-express": "^1.2.5",
+        "pg": "^6.4.0",
+        "sequelize": "^4.2.1"
+    }
+}
